@@ -20,4 +20,5 @@
 
 **Важно**: попробуйте проанализировать существующие системы на предмет того, как это реализовано у них и на базе этого предложить собственное решение.
 
-[Ссылка на Github Pages]()
+[![Build status](https://ci.appveyor.com/api/projects/status/vt61v1df09x6cwcg/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-hw-10-2-filter/branch/main)
+[Ссылка на Github Pages](https://nikitakurys.github.io/ra-hw-10.2-filter/)
